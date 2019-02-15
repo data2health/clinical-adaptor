@@ -17,7 +17,7 @@ We require a contact person for each project for administrative purposes. Each p
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Tricia Francis (@tricfran) | JHU | Chris Chute (@cgchute)
+Chris Chute (@cgchute) | JHU | Chris Chute (@cgchute)
 
 ## Leads 
 
