@@ -1,5 +1,5 @@
 92 +1 @@
-# clinical-adaptor
+# Clinical-adaptor Please Read the Wiki for Details on the Clinical Adapter Project
 Clinical data in CTSA hubs are not readily queryable in a federated fashion.  Many efforts exist to address this, including TriNetX, ACT, PCORNet, and OHDSI among others.  Unifying these with an HL7 FHIR framework is an aspiration. 
 
 Enabling the CTSA to function as a federated network of clinical data, supporting multicenter research is among the core goals of the program. This proposal advances that agenda through common data model harmonization.
