@@ -5,12 +5,10 @@ Clinical data in CTSA hubs are not readily queryable in a federated fashion.  Ma
 Enabling the CTSA to function as a federated network of clinical data, supporting multicenter research is among the core goals of the program. This proposal advances that agenda through common data model harmonization.
 
 ## Problem statement
-Please include a Project Statement on your landing page. Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success? A problem statement should be a clear vision and the overall method that will be used to solve the problem at hand. 
+PENDING
 
 ## Project description
 (we will migrate these from the Project Matrix for you)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium a felis non scelerisque. Etiam molestie nisi ut mi viverra dictum. Nunc et tempor quam. Maecenas a viverra sapien. Aliquam lacinia sagittis lorem ac sodales. Fusce justo mi, cursus sed metus sed, ornare vestibulum mauris. Donec in orci ornare, facilisis nisl ut, congue libero.
 
 ## Contact person
 
@@ -31,8 +29,6 @@ Chris Chute (@cgchute) | JHU
 
 ## Team members 
 
-No action required here, a list of team members will be imported and linked below.
-
 See https://github.com/data2health/project-repo-template/tree/master/team.md
 
 ## Repositories
@@ -45,12 +41,8 @@ Demonstration of FHIR to CDM
 Specification of semantic mapping challenges
 
 ## Milestones 
-Each deliverable is represented as a Milestone, but not all Milestones need be deliverables. For example, see this 'report on XYZ' is a [Deliverable Milestone](https://github.com/data2health/project-repo-template/milestone/2)
-
-Please create 4-8 Milestones for each project, with dates prior to August 31st.  Milestones for partially completed deliverables are acceptable: beta release of software, # interviews performed, 75% coverage, etc. 
-
-Each Milestone must have at least one Issue (aka 'ticket'), each issue should be assigned to a person, preferably one at a time; reassignments are fine. Issues with checklists showing degree of completion are also acceptable, see [example](https://github.com/data2health/project-repo-template/issues/2).
-
+Completed initial set of milestones
+Issues with checklists  see [example](https://github.com/data2health/project-repo-template/issues/2).
 GitHub help on Milestones is [here](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/)
 
 ## Evaluation
@@ -75,10 +67,7 @@ We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CT
 Please tag any engagment related issues with "engagement".
 
 ## Working documents
-Documentation may be natively in GitHub using the wiki or .md files in the appropriate folder, or in Google Drive.
-[Documentating projects in Github](https://guides.github.com/features/wikis/)
-
-[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
+https://github.com/data2health/clinical-adaptor/wiki
 
 ## Slack room
 https://cd2h.slack.com/messages/CGK0PJHSS/.  
