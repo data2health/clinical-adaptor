@@ -1,4 +1,4 @@
-92 +1 @@
+
 # Clinical-Adaptor Please Read the Wiki for Details on the Clinical Adapter Project
 Clinical data in CTSA hubs are not readily queryable in a federated fashion.  Many efforts exist to address this, including TriNetX, ACT, PCORNet, and OHDSI among others.  Unifying these with an HL7 FHIR framework is an aspiration. 
 
@@ -36,12 +36,7 @@ No action required here, a list of team members will be imported and linked belo
 See https://github.com/data2health/project-repo-template/tree/master/team.md
 
 ## Repositories
-
-List Github repositories associated with the project. Each project requires at least one repository to house the administrative tracking and public information. You can either add this information to an existing repository, or create a new one and list the associated repositories below. Please be sure to tag any repositories not under the data2health organization with the topic 'data2health'. Project repositories must be public. Some repositories may be private for sensitivity or operational reasons. 
-
-Example repos:
-- https://github.com/data2health/project-repo-template
-- https://github.com/data2health/operations; private repo editable by members of team @data2health/ops
+https://github.com/data2health/clinical-adaptor
 
 ## Deliverables
 Working draft spec for FHIR object
@@ -86,7 +81,7 @@ Documentation may be natively in GitHub using the wiki or .md files in the appro
 [The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
 
 ## Slack room
-[The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
+https://cd2h.slack.com/messages/CGK0PJHSS/.  
 
 ## Need help with GitHub? See the Managing Tranlational Informatics Projects (MTIP) tutorial
 
