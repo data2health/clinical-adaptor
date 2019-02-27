@@ -4,6 +4,8 @@ Clinical data in CTSA hubs are not readily queryable in a federated fashion.  Ma
 
 Enabling the CTSA to function as a federated network of clinical data, supporting multicenter research is among the core goals of the program. This proposal advances that agenda through common data model harmonization.
 
+Note: this Repo focuses on the FDA data submission project.  The related project is clinical data harmonization.
+
 ## Problem statement
 PENDING
 
