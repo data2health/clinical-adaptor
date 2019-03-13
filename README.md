@@ -1,6 +1,6 @@
 
 # Clinical-Adapter 
-## [Projec Detials: Clinical Adapter Wiki](https://github.com/data2health/clinical-adaptor/wiki).
+* [Projec Detials: Clinical Adapter Wiki](https://github.com/data2health/clinical-adaptor/wiki).
 
 ## Problem statement
 Clinical data in CTSA hubs are not readily queryable in a federated fashion.  Many efforts exist to address this, including TriNetX, ACT, PCORNet, and OHDSI among others.  Unifying these with an HL7 FHIR framework. 
@@ -38,8 +38,7 @@ Demonstration of FHIR to CDM
 Specification of semantic mapping challenges
 
 ## Working documents
-[See Clinical Adapter Wiki](https://github.com/data2health/clinical-adaptor/wiki)
-[See Clinical Adapter Wiki]
+[Clinical Adapter Wiki](https://github.com/data2health/clinical-adaptor/wiki)
 
 ## Slack room
 https://cd2h.slack.com/messages/CGK0PJHSS/.  
