@@ -41,4 +41,4 @@ Specification of semantic mapping challenges
 [Clinical Adapter Wiki](https://github.com/data2health/clinical-adaptor/wiki)
 
 ## Slack room
-https://cd2h.slack.com/messages/CGK0PJHSS/.  
+[Clinical Adapter](https://cd2h.slack.com/messages/CGK0PJHSS/).  
