@@ -48,18 +48,6 @@ Completed initial set of milestones
 Issues with checklists  see [example](https://github.com/data2health/project-repo-template/issues/2).
 GitHub help on Milestones is [here](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/)
 
-## Evaluation
-Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
-
-Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
-
-## Education
-Each project should propose a set of educational activities, listed separately in the Education Plan file. 
-Please reference any of the following that apply: 
-- Educational resources that will be generated (these can be milestones and/or files in the repo)
-- Educational opportunities (please indicate for which type of learner and how to participate)
-- Best practices guides
-
 Please include education related issues where relevant, tagged with "education". 
 
 ## Get involved
@@ -74,7 +62,3 @@ https://github.com/data2health/clinical-adaptor/wiki
 
 ## Slack room
 https://cd2h.slack.com/messages/CGK0PJHSS/.  
-
-## Need help with GitHub? See the Managing Tranlational Informatics Projects (MTIP) tutorial
-
-This [tutorial](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) covers markdown basics and more.
