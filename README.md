@@ -36,22 +36,8 @@ Prototype tooling for object generation
 Demonstration of FHIR to CDM
 Specification of semantic mapping challenges
 
-## Milestones 
-Completed initial set of milestones
-Issues with checklists  see [example](https://github.com/data2health/project-repo-template/issues/2).
-GitHub help on Milestones is [here](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/)
-
-Please include education related issues where relevant, tagged with "education". 
-
-## Get involved
-We encourage the community to get involved. 
-
-We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md). 
-
-Please tag any engagment related issues with "engagement".
-
 ## Working documents
-https://github.com/data2health/clinical-adaptor/wiki
+[See Clinical Adapter Wiki] (https://github.com/data2health/clinical-adaptor/wiki)
 
 ## Slack room
 https://cd2h.slack.com/messages/CGK0PJHSS/.  
